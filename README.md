@@ -31,4 +31,4 @@
 - [Официальная документация Markdown](https://www.markdownguide.org/)
 
 5. Изображения
-[](https://imgur.com/a/5qYgPqU)
+[Крути скелед](https://imgur.com/a/5qYgPqU)
