@@ -33,7 +33,7 @@
 5. ## Изображения
 ![Крути скелед](images/Horizontal.jpg)
 
-6. ## Исходный код
+6. # Исходный код
    ```C++
    include <iostream>
    using namespace std;
